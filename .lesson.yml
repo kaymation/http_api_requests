@@ -1,0 +1,7 @@
+---
+title: "Local Events"
+type: "exercise"
+description: "Utilize a public API to find out what's happening in your city."
+tags: "evening-exercise, api"
+ignore:
+- "local-events-api.md"
